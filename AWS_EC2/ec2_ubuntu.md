@@ -3,4 +3,4 @@
 
 |Description|Link    |
 | :----     | :---   |
-| Upgrading_Ubuntu_ec2 |https://repost.aws/knowledge-center/ec2-linux-upgrade-ubuntu-lts|
+| Upgrading Ubuntu ec2 |https://repost.aws/knowledge-center/ec2-linux-upgrade-ubuntu-lts|
